@@ -3,7 +3,7 @@ nav {
     justify-content: space-between;
     background-color: black;
     font-size: medium;
-    padding: 1vh;
+    padding: 2vh;
     color: white;
     text-decoration: none;
 }
@@ -11,6 +11,11 @@ nav {
 h1 {
     text-decoration: none;
     color: white;
+    margin: 1vh;
+}
+
+a {
+    text-decoration: none;
 }
 
 .emoji {

@@ -2,7 +2,11 @@ import "../App.css"
 
 const About = () => {
     return (
-        <div>About Page</div>
+        <div>
+            <h2>
+                About Page
+            </h2>
+        </div>
     )
 }
 

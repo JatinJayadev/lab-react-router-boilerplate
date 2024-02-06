@@ -1,7 +1,11 @@
 import "../App.css"
 const Contact = () => {
     return (
-        <div>Contact page</div>
+        <div>
+            <h2>
+                Contact page
+            </h2>
+        </div>
     )
 }
 
