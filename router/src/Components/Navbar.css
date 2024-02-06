@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: medium;
+    padding: 1vh;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-decoration: none;
+    color: white;
+}
+
+.emoji {
+    color: red;
+}
+
+.Details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Details>div {
+    margin: 1vh;
+}
