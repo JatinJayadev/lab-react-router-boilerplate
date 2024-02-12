@@ -11,11 +11,11 @@ function App() {
     <div>
       <Navbar />
       <Routes>
-        <Route exact path="/Contact" element={<Contact />}>Contact</Route>
+        <Route exact path="/Contact" element={<Contact />}></Route>
         <Route exact path="*" element={<h1>Error 404 !</h1>}></Route>
 
-        <Route exact path="/About" element={<About />}>About</Route>
-        <Route exact path="/Home" element={<Home />}>Home</Route>
+        <Route exact path="/About" element={<About />}></Route>
+        <Route exact path="/Home" element={<Home />}></Route>
       </Routes >
     </div>
   )
