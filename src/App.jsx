@@ -13,9 +13,8 @@ function App() {
       <Routes>
         <Route exact path="/Contact" element={<Contact />}></Route>
         <Route exact path="*" element={<h1>Error 404 !</h1>}></Route>
-
         <Route exact path="/About" element={<About />}></Route>
-        <Route exact path="/Home" element={<Home />}></Route>
+        <Route exact path="/" element={<Home />}></Route>
       </Routes >
     </div>
   )

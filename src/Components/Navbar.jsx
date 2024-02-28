@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <nav className="navbar">
             <div>
-                <Link to="/Home">
+                <Link to="/">
                     < h1 > Kalvium <span className="emoji">❤</span></h1>
                 </Link>
             </div >
